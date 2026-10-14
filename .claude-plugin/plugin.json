@@ -13,6 +13,7 @@
   "keywords": ["omniroute", "mcp", "ai-gateway", "llm-routing", "claude-code"],
   "mcpServers": {
     "omniroute": {
+      "type": "http",
       "url": "http://localhost:20128/api/mcp/stream"
     }
   }
